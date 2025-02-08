@@ -25,9 +25,9 @@ php artisan key:generate
 ./vendor/bin/sail artisan migrate
 ```
 
-## Usage
+## Job
 
-To use the job, use:
+To use the job, use the commands:
 
 ```bash
 ./vendor/bin/sail artisan fetch-data
